@@ -139,9 +139,9 @@ function buildCharts(sample) {
     // 5. Create the layout for the gauge chart.
     var gaugeLayout = { 
       title: {text:"Belly Button Washing Frequency", font:{size:20}},
-      width: 500, 
-      height: 400, 
-      margin: {t: 40}
+      width: 550, 
+      height: 450, 
+      margin: {t: 100}
     };
 
     // 6. Use Plotly to plot the gauge data and layout.
