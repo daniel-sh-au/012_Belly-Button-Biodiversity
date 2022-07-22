@@ -99,7 +99,7 @@ function buildCharts(sample) {
       marker: {
         size: sample_values,
         color: otu_ids,
-        colorscale: "YlGnBu"
+        colorscale: "Earth"
       }
     }];
     // 2. Create the layout for the bubble chart.
