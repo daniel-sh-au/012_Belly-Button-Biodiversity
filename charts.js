@@ -104,7 +104,7 @@ function buildCharts(sample) {
     }];
     // 2. Create the layout for the bubble chart.
     var bubbleLayout = {
-      title: "Bacteria Cultures Per Sameple",
+      title: "Bacteria Cultures Per Sample",
       xaxis: {title: "OTU ID"},
       margins: {t:50},
       hovermode: "closest"
@@ -139,8 +139,8 @@ function buildCharts(sample) {
     // 5. Create the layout for the gauge chart.
     var gaugeLayout = { 
       title: {text:"Belly Button Washing Frequency", font:{size:20}},
-      width: 550, 
-      height: 450, 
+      width: 458, 
+      height: 400, 
       margin: {t: 100}
     };
 
