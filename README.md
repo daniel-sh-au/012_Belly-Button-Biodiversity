@@ -11,13 +11,13 @@ To complete the belly button biodiversity dashboard, we want to visualize the ba
 * Data Source: [samples.json](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/samples.json)
 
 ## Deliverable 1: Create a Horizontal Bar Chart
-Code: [chart.js](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/charts.js), [index.html](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/index.html)
+Code: [chart.js](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/charts.js) (Line 56)
 
 ## Deliverable 2: Create a Bubble Chart
-Code: [chart.js](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/charts.js) (Line )
+Code: [chart.js](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/charts.js) (Line 91)
 
 ## Deliverable 3: Create a Gauge Chart
-Code: [chart.js](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/charts.js) (Line )
+Code: [chart.js](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/charts.js) (Line 115)
 
 ## Deliverable 4: Customize the Dashboard
-
+Code: [index.html](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/index.html), [style.css](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/style.css)
