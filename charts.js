@@ -116,7 +116,6 @@ function buildCharts(sample) {
 
     // 3. Create a variable that holds the washing frequency.
     var wfreq = data.metadata.filter(sampleObj => sampleObj.id == sample)[0].wfreq;
-
     // 4. Create the trace for the gauge chart.
     var gaugeData = [{
       value: wfreq,
@@ -135,7 +134,6 @@ function buildCharts(sample) {
         ]
       }
     }];
-    
     // 5. Create the layout for the gauge chart.
     var gaugeLayout = { 
       title: {text:"Belly Button Washing Frequency", font:{size:20}},
@@ -143,10 +141,7 @@ function buildCharts(sample) {
       height: 400, 
       margin: {t: 100}
     };
-
     // 6. Use Plotly to plot the gauge data and layout.
     Plotly.newPlot("gauge", gaugeData, gaugeLayout);
-
-
   });
 }

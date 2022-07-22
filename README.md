@@ -3,7 +3,7 @@
 ## Overview of the Analysis
 
 ### Purpose
-
+To complete the belly button biodiversity dashboard, we want to visualize the bacterial data for each subject. Specifically, we want to see the top 10 bacterial species in each subject. Two additional visualizations will be included in the dashboard to display the washing frequency per week and the bacteria cultures per sample for each subject. Finally, to complete the dashboard, additional style components will be added to the webpage. 
 
 ### Resources
 * Visual Studio Code, Javascript, HTML
