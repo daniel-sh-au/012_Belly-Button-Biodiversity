@@ -21,3 +21,6 @@ Code: [chart.js](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Butt
 
 ## Deliverable 4: Customize the Dashboard
 Code: [index.html](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/index.html), [style.css](https://github.com/daniel-sh-au/UofT_DataBC_Module12_Belly-Button-Biodiversity/blob/main/style.css)
+
+## Github Pages
+https://daniel-sh-au.github.io/UofT_DataBC_Module12_Belly-Button-Biodiversity/
